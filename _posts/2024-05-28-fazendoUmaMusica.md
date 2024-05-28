@@ -16,7 +16,7 @@ Dei o contexto da música e com o tema de 'bits/eletronica'
 e o Jay deu como tematica Jrock (acordes de Jmusic)
 
 Decidi colocar samples do teclado como percussão e acabou por ficar muito agradável
-Nem tinha planos de lançar ou seguir carreira disso mas vou ver como faz e lançar no meu spotify
+Nem tinha planos de lançar ou seguir carreira disso mas vou ver como faz e lançar no meu spotify.
 
 ## Aqui embaixo a pedrada
 
