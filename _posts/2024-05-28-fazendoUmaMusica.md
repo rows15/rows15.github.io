@@ -2,7 +2,7 @@
 layout: post
 title: "Musica Bits and Bots"
 date: 2024-05-28 01:00:00 -0300
-categories: [blog, music]
+categories: [blog, music, casual]
 tags: [blog, music, short songs]
 ---
 
@@ -21,4 +21,4 @@ Nem tinha planos de lançar ou seguir carreira disso mas vou ver como faz e lan�
 ## Aqui embaixo a pedrada
 
 ![banana gigante](https://static.ndmais.com.br/2023/02/banana-2-800x798.jpg)
-_Meu almoço de hoje_
+_Meu almoço de hoje._
