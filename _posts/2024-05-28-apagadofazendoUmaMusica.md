@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Musica Bits and Bots"
-date: 2024-05-27 01:00:00 -0300
+date: 2024-05-27 15:00:00 -0300
 categories: music
 tags: music
 ---
