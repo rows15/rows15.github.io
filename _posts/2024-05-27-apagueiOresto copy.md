@@ -1,13 +1,13 @@
 ---
 layout: post
-title: "Post de Introdução"
+title: "Primeiro Post"
 date: 2024-05-27 13:00:00 -0300
 categories: blog
 tags: blogueiro
 ---
 
 
-# Macaco Ficou Louco
+# O Gerente ficou Louco e fez um site
 
 Bem vindo ao meu sitão mlk, altas coisas por vir tlgd
 
@@ -20,4 +20,4 @@ Bem vindo ao meu sitão mlk, altas coisas por vir tlgd
 ## Aqui vai uma bananona
 
 ![banana gigante](https://static.ndmais.com.br/2023/02/banana-2-800x798.jpg)
-_Minha Banana de hoje_
+_Meu almoço de hoje_
