@@ -7,7 +7,7 @@ tags: blogueiro
 ---
 
 2024-05-28-
-# O Gerente ficou muito Dpido e fez um site
+# O aGerente ficou muito Dpido e fez um site
 
 Bem vindo ao meu sitão mlk, altas coisas por vir tlgd
 
