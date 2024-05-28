@@ -9,7 +9,7 @@ tags: blogueiro
 
 # Macaco Ficou Louco
 
-Bem vindo ao meu sitão mlk, altas coisas por vir tlgd
+Bem vindo ado meu sitão mlk, altas coisas por vir tlgd
 
 * musicas
 * programas
