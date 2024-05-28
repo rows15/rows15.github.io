@@ -10,7 +10,7 @@ tags: music
 # Bits and Bots
 
 Criei uma musica com meu amigo Jay com o desafio de fazer ela em "1h"
-No caso durou um tempo a mais 
+Mas no caso durou um tempo a mais 
 
 Dei o contexto da música e com o tema de 'bits/eletronica' 
 e o Jay deu como tematica Jrock (acordes de Jmusic)
