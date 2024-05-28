@@ -2,8 +2,8 @@
 layout: post
 title: "Musica Bits and Bots"
 date: 2024-05-28 01:00:00 -0300
-categories: [blog, music, casual]
-tags: [blog, music, short songs]
+categories: music
+tags: music
 ---
 
 
