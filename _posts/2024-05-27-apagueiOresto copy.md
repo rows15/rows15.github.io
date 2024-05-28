@@ -7,7 +7,7 @@ tags: blogueiro
 ---
 
 
-# O Gerente ficou Louco e fez um site
+# O Gerente ficou muito Louco e fez um site
 
 Bem vindo ao meu sitão mlk, altas coisas por vir tlgd
 
