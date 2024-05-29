@@ -139,6 +139,9 @@
   },
   "active": "2f6d5062597fcec2",
   "lastOpenFiles": [
+    "assets/css/jekyll-theme-chirpy.css.map",
+    "assets/css/jekyll-theme-chirpy.css",
+    "assets/css",
     "_posts/Projetos/2024-05-29-Projeto de cagar nas calças automatico.md",
     "_posts/Memorias/2024-05-29-Show do slipao.md",
     "_posts/Meta/2024-05-28-OrganizacaoDoBlog.md",
@@ -168,7 +171,6 @@
     "_posts/Ideias",
     "_posts/Projetos/2024-05-17-Pixels-UserAndLandScraper.md",
     "_posts/Projetos/2024-05-26-Bits-and-Bots.md",
-    "_posts/Memorias/2019-01-01-Viagem Argentina.md",
     "Template"
   ]
 }
