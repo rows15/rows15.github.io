@@ -17,7 +17,103 @@ Aqui vai uma coletanea de memórias engraçadonas
 <details>
   <summary>Letra:</summary>
 
-  ```text
+  ```gitignore   
+In this world of lines i find joy and confort
+Even though i spend way too much time, its where i belong
+
+I'll always have my code it's my guiding light,
+Through the darkest hours, it shines so bright.
+
+Working from nightfall, all the way to morning
+i don't know how much time i spent, i'll leave when its workin'
+
+[Refrão]
+
+Zeores on the ones
+And one on the zeroes
+My variables are starting to have names of animals
+x2
+
+[final filal msm 02]
+ 
+dictionaries lists floats and integers 
+My head is full of them
+As i hear birds chirping on the window
+i guess its TIme toooo sleep
+  ```
+  ```c   
+In this world of lines i find joy and confort
+Even though i spend way too much time, its where i belong
+
+I'll always have my code it's my guiding light,
+Through the darkest hours, it shines so bright.
+
+Working from nightfall, all the way to morning
+i don't know how much time i spent, i'll leave when its workin'
+
+[Refrão]
+
+Zeores on the ones
+And one on the zeroes
+My variables are starting to have names of animals
+x2
+
+[final filal msm 02]
+ 
+dictionaries lists floats and integers 
+My head is full of them
+As i hear birds chirping on the window
+i guess its TIme toooo sleep
+  ```
+  ```llvm 
+In this world of lines i find joy and confort
+Even though i spend way too much time, its where i belong
+
+I'll always have my code it's my guiding light,
+Through the darkest hours, it shines so bright.
+
+Working from nightfall, all the way to morning
+i don't know how much time i spent, i'll leave when its workin'
+
+[Refrão]
+
+Zeores on the ones
+And one on the zeroes
+My variables are starting to have names of animals
+x2
+
+[final filal msm 02]
+ 
+dictionaries lists floats and integers 
+My head is full of them
+As i hear birds chirping on the window
+i guess its TIme toooo sleep
+  ```
+  ```scss  
+In this world of lines i find joy and confort
+Even though i spend way too much time, its where i belong
+
+I'll always have my code it's my guiding light,
+Through the darkest hours, it shines so bright.
+
+Working from nightfall, all the way to morning
+i don't know how much time i spent, i'll leave when its workin'
+
+[Refrão]
+
+Zeores on the ones
+And one on the zeroes
+My variables are starting to have names of animals
+x2
+
+[final filal msm 02]
+ 
+dictionaries lists floats and integers 
+My head is full of them
+As i hear birds chirping on the window
+i guess its TIme toooo sleep
+  ```
+  ```tex   
 In this world of lines i find joy and confort
 Even though i spend way too much time, its where i belong
 
