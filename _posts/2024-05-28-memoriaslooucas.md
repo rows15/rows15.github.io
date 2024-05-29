@@ -11,10 +11,16 @@ tags: memorias
 
 Aqui vai uma coletanea de memórias engraçadonas
 
-## Musicona que eu fiz junto co jay
+## Musicona que eu fiz junto co jay (só um preview pra vcs gente te amo)
 
 <iframe src="https://1drv.ms/u/c/1d17967c159fdd0f/IQP9qBKXReC0SYS1COuLeMIMAd4oj3aw22KcQH6WcCHoJxM" width="98" height="120" frameborder="0" scrolling="no"></iframe>
+<details>
+  <summary>Example</summary>
 
+  ```
+  letra da musica
+  ```
+</details>
 ## Eu todo estiloso
 
 ![EuStyle](https://1drv.ms/i/c/1d17967c159fdd0f/IQMRPN5iz09NSbzBTJR6e6kiAQvZckD42T22juZxAKy70s4?width=1024)
