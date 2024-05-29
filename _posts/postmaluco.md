@@ -21,5 +21,5 @@ Bem vindo ao meu sitão mlk, altas coisas por vir tlgd
 ## Aqui vai uma bananona
 
 ![banana gigante](https://static.ndmais.com.br/2023/02/banana-2-800x798.jpg)
-_Meu almoço de hoje_
+_Meu almoço de hoje._
 
