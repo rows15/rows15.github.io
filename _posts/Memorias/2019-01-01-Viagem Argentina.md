@@ -10,5 +10,12 @@ tagbank: [music,code,trips,memories,misc,meta]
  
 ---
 # Viagem Pra Argentina, Chile e Uruguai
+<details>
+  <summary>Mapa da Viagem:</summary>
+  <pre>
+[Imagem Aqui]
+</pre>
+----
+</details>
 ## Dia 01 - Brasil
 ## Dia 02 - Outro Lugar
