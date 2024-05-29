@@ -11,12 +11,8 @@
             "id": "2f6d5062597fcec2",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "_posts/Projetos/2024-05-29-Projeto de cagar nas calças automatico.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_posts/Projetos/2024-05-29-Projeto de cagar nas calças automatico.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_posts/Projetos/2024-05-29-Projeto de cagar nas calças automatico.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "_posts/Projetos/2024-05-29-Projeto de cagar nas calças automatico.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -147,8 +139,8 @@
   },
   "active": "2f6d5062597fcec2",
   "lastOpenFiles": [
-    "_posts/Memorias/2024-05-29-Show do slipao.md",
     "_posts/Projetos/2024-05-29-Projeto de cagar nas calças automatico.md",
+    "_posts/Memorias/2024-05-29-Show do slipao.md",
     "_posts/Meta/2024-05-28-OrganizacaoDoBlog.md",
     "_posts/Memorias/2024-05-29-Caguei nas calcas gostoso.md",
     "_posts/Memorias/2019-01-01-Quadriciclo em nanananan copy.md",
