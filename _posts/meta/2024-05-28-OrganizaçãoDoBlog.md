@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Organização do Blog"
-date: 2001-01-01 01:01:01 -0300
+date: 2001-01-1 1:01:1 -0300
 categories: meta
 tags: meta
 ---
@@ -10,18 +10,18 @@ tags: meta
 
 * ## Categorias
     * Projetos
-    * Memórias
+    * Memorias
     * Ideias
     * Blog
-    * misc
-    * meta
+    * Misc
+    * Meta
 
 
 *  ## Tags
-   *  musica
+   *  music
    *  code
-   *  viagens
-   *  memorias
+   *  trips
+   *  memories
    *  misc
    *  meta
 
@@ -32,7 +32,7 @@ tags: meta
 <!-- ![banana gigante](https://static.ndmais.com.br/2023/02/banana-2-800x798.jpg)
 _Meu almoço de hoje._ -->
 
-<details>
+<!-- <details>
   <summary>Letra:</summary>
 
   <pre> 
@@ -60,4 +60,4 @@ As i hear birds chirping on the window
 i guess its TIme toooo sleep
 </pre>
 ----
-</details>
+</details> -->
