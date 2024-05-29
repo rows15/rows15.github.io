@@ -9,7 +9,6 @@ tagbank: [music,code,trips,memories,misc,meta]
 
  
 ---
-# Viagem Pra Argentina, Chile e Uruguai
 <details>
   <summary>Mapa da Viagem:</summary>
   <pre>
