@@ -1307,8 +1307,8 @@ html {
 
   html:not([data-mode]),
   html[data-mode=light] {
-    --main-bg: pink;
-    --mask-bg: pink;
+    --main-bg: white;
+    --mask-bg: #c1c3c5;
     --main-border-color: #f3f3f3;
     --text-color: #34343c;
     --text-muted-color: #757575;
@@ -1416,6 +1416,8 @@ html {
     --site-title-color: #717070;
     --site-subtitle-color: #868686;
     --sidebar-bg: #1e1e1e;
+    /* --main-bg: rgb(28, 22, 34); */
+
     --sidebar-border-color: #292929;
     --sidebar-muted-color: #868686;
     --sidebar-active-color: rgb(255, 255, 255, 0.95);
@@ -1440,7 +1442,8 @@ html {
     --btn-share-color: #6c757d;
     --btn-share-hover-color: #bfc1ca;
     --card-bg: #1e1e1e;
-    --card-hovor-bg: #464d51;
+    /* --card-hovor-bg: #464d51; */
+    --card-hovor-bg: rgb(75, 67, 83);
     --card-shadow: rgb(21, 21, 21, 0.72) 0 6px 18px 0, rgb(137, 135, 135, 0.24) 0 0 0 1px;
     --kbd-wrap-color: #6a6a6a;
     --kbd-text-color: #d3d3d3;
@@ -1504,7 +1507,8 @@ html {
 
   html:not([data-mode]),
   html[data-mode=dark] {
-    --main-bg: rgb(27, 27, 30);
+    /* --main-bg: rgb(27, 27, 30); */
+    --main-bg: rgb(28, 22, 34);
     --mask-bg: rgb(68, 69, 70);
     --main-border-color: rgb(44, 45, 45);
     --text-color: rgb(175, 176, 177);
@@ -1528,11 +1532,16 @@ html {
     --shimmer-bg: linear-gradient(90deg, rgba(255, 255, 255, 0) 0%, rgba(58, 55, 55, 0.4) 50%, rgba(255, 255, 255, 0) 100%);
     --site-title-color: #717070;
     --site-subtitle-color: #868686;
-    --sidebar-bg: #1e1e1e;
+    /* --sidebar-bg: #1e1e1e; */
+    --sidebar-bg: rgb(21, 17, 26);
+
     --sidebar-border-color: #292929;
     --sidebar-muted-color: #868686;
     --sidebar-active-color: rgb(255, 255, 255, 0.95);
-    --sidebar-hover-bg: #262626;
+    /* --sidebar-hover-bg: #262626; */
+    --sidebar-hover-bg: rgb(64, 52, 77);
+    /* --main-bg: rgb(28, 22, 34); */
+
     --sidebar-btn-bg: #232328;
     --sidebar-btn-color: #787878;
     --avatar-border-color: rgb(206, 206, 206, 0.9);
@@ -1552,8 +1561,10 @@ html {
     --footnote-target-bg: rgb(63, 81, 181);
     --btn-share-color: #6c757d;
     --btn-share-hover-color: #bfc1ca;
-    --card-bg: #1e1e1e;
-    --card-hovor-bg: #464d51;
+    --card-bg: rgb(38, 31, 46);
+    /* --card-hovor-bg: #464d51; */
+    --card-hovor-bg: rgb(169, 152, 175);
+
     --card-shadow: rgb(21, 21, 21, 0.72) 0 6px 18px 0, rgb(137, 135, 135, 0.24) 0 0 0 1px;
     --kbd-wrap-color: #6a6a6a;
     --kbd-text-color: #d3d3d3;
