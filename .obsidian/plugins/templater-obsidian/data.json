@@ -15,8 +15,28 @@
   "enable_folder_templates": true,
   "folder_templates": [
     {
-      "folder": "",
-      "template": ""
+      "folder": "_posts/Blog",
+      "template": "Template/Blog Template.md"
+    },
+    {
+      "folder": "_posts/Ideias",
+      "template": "Template/Ideias Template.md"
+    },
+    {
+      "folder": "_posts/Memorias",
+      "template": "Template/Memories Template.md"
+    },
+    {
+      "folder": "_posts/Meta",
+      "template": "Template/Meta Template.md"
+    },
+    {
+      "folder": "_posts/Misc",
+      "template": "Template/Misc Template.md"
+    },
+    {
+      "folder": "_posts/Projetos",
+      "template": "Template/Projetos Template.md"
     }
   ],
   "syntax_highlighting": true,
