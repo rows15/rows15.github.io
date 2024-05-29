@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Organização do Blog"
-date: 2001-01-1 01:01:01 -0300
+date: 2001-01-01 01:01:01 -0300
 categories: meta
 tags: meta
 ---
