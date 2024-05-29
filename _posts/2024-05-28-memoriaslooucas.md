@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Tipos de Macacos que eu gosto"
+title: "Memórias Enfadonhas"
 date: 2024-05-28 22:00:00 -0300
 categories: memorias
 tags: memorias
