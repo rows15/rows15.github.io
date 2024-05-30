@@ -20,11 +20,12 @@ Nem tinha planos de lançar ou seguir carreira disso mas vou ver como faz e lan�
 ## Aqui embaixo a pedrada (DEMO)
 <iframe src="https://1drv.ms/u/c/1d17967c159fdd0f/IQP9qBKXReC0SYS1COuLeMIMAd4oj3aw22KcQH6WcCHoJxM" width="300" height="120" frameborder="0" scrolling="no"></iframe>
 <pre>
-- [x] Fazer a musica            26-05-2024
-- [x] Mixar a Música            27-05-2024
-- [ ] Efeitos e toques finais
-- [ ] Artwork
-- [ ] Publicar
+- [x] Fazer a musica                      26-05-2024
+- [x] Mixar a Música                     27-05-2024
+- [x] Efeitos e toques finais          30-05-2024
+- [x] Artwork                                30-05-2024
+- [x] Mandar para ser publicada  30-05-2024
+- [ ] Publicada
 </pre>
 <details>
   <summary>Letra (DEMO):</summary>

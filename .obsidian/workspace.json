@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_posts/Projetos/2024-05-29-Organizacao de Fotos.md",
+                "file": "_posts/Projetos/2024-05-26-Bits-and-Bots.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_posts/Projetos/2024-05-29-Organizacao de Fotos.md",
+                "file": "_posts/Projetos/2024-05-26-Bits-and-Bots.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_posts/Projetos/2024-05-29-Organizacao de Fotos.md",
+                "file": "_posts/Projetos/2024-05-26-Bits-and-Bots.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_posts/Projetos/2024-05-29-Organizacao de Fotos.md"
+                "file": "_posts/Projetos/2024-05-26-Bits-and-Bots.md"
               }
             }
           }
@@ -147,8 +147,8 @@
   },
   "active": "2f6d5062597fcec2",
   "lastOpenFiles": [
-    "_posts/Projetos/2024-05-17-Pixels-UserAndLandScraper.md",
     "_posts/Projetos/2024-05-29-Organizacao de Fotos.md",
+    "_posts/Projetos/2024-05-17-Pixels-UserAndLandScraper.md",
     "Template/orgsite.md",
     "assets/css/jekyll-theme-chirpy.css",
     "_site/posts/Quadriciclo-em-nanananan/index.html",
