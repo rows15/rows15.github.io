@@ -19,7 +19,6 @@ Nem tinha planos de lançar ou seguir carreira disso mas vou ver como faz e lan�
 
 ## Enquanto não é lançada no spotify
 <iframe src="https://1drv.ms/u/c/1d17967c159fdd0f/IQPLlE0RAogwSrg9VxYqpAQLAUTE4FagkAoqYFpV6CET6n4" width="300" height="120" frameborder="0" scrolling="no"></iframe>
-<details>
 <pre>
 - [x] Fazer a musica                      26-05-2024
 - [x] Mixar a Música                     27-05-2024
@@ -28,6 +27,7 @@ Nem tinha planos de lançar ou seguir carreira disso mas vou ver como faz e lan�
 - [x] Mandar para ser publicada  30-05-2024
 - [ ] Publicada
 </pre>
+<details>
   <summary>Letra:</summary>
 
   <pre> 
