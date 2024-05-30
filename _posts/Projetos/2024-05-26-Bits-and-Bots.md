@@ -7,7 +7,8 @@ tags: [music]
 
 
 # Bits and Bots
-
+<!-- ![BitsAndBots](https://1drv.ms/i/c/1d17967c159fdd0f/IQOLj0GM8DZwRb0K92qwwweQAS-Hgk-k-oB7FNEuQNYbKEo?width=1024) -->
+<br>
 Criei uma musica com meu amigo Jay com o desafio de fazer ela em "1h"
 Mas no caso durou um tempo a mais 
 
@@ -16,6 +17,7 @@ e o Jay deu como tematica Jrock (acordes de Jmusic)
 
 Decidi colocar samples do teclado como percussão e acabou por ficar muito agradável
 Nem tinha planos de lançar ou seguir carreira disso mas vou ver como faz e lançar no meu spotify.
+<img src="https://1drv.ms/i/c/1d17967c159fdd0f/IQOLj0GM8DZwRb0K92qwwweQAS-Hgk-k-oB7FNEuQNYbKEo" alt="drawing" style="width: 50vw;"/>
 
 ## Enquanto não é lançada no spotify
 <iframe src="https://1drv.ms/u/c/1d17967c159fdd0f/IQPLlE0RAogwSrg9VxYqpAQLAUTE4FagkAoqYFpV6CET6n4" width="300" height="120" frameborder="0" scrolling="no"></iframe>
