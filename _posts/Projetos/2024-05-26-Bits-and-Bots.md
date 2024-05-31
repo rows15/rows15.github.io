@@ -5,6 +5,44 @@ categories: Projetos
 tags: [music]
 ---
 
+<div class="player">
+  <div class="player__bar">
+    <div class="player__album">
+      <div class="player__albumImg active-song" data-author="Author 1" data-song="Song 1" data-src="https://www.dropbox.com/scl/fi/ol4dp6jvr1j8lsijvcui5/Bits-and-Bots_44100hz.flac?rlkey=txywys182mipm4g1rn7x91q51&dl=1" style="background-image: url(https://1drv.ms/i/c/1d17967c159fdd0f/IQOLj0GM8DZwRb0K92qwwweQAS-Hgk-k-oB7FNEuQNYbKEo)">
+      </div>
+    </div>
+    <div class="player__controls">
+      <div class="player__prev">
+        <svg class="icon">
+          <use xlink:href="img/sprite.svg#arrow"></use>
+        </svg>
+      </div>
+      <div class="player__play">
+        <svg class="icon play">
+          <use xlink:href="img/sprite.svg#play"></use>
+        </svg>
+        <svg class="icon pause">
+          <use xlink:href="img/sprite.svg#pause"></use>
+        </svg>
+      </div>
+      <div class="player__next">
+        <svg class="icon">
+          <use xlink:href="img/sprite.svg#arrow"></use>
+        </svg>
+      </div>
+    </div>
+  </div>
+  <div class="player__timeline">
+    <p class="player__author"></p>
+    <p class="player__song"></p>
+    <div class="player__timelineBar">
+      <div id="playhead"></div>
+    </div>
+  </div>
+</div>
+
+<script src="https://code.jquery.com/jquery-3.3.1.slim.min.js" integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo" crossorigin="anonymous"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/gsap/1.20.4/TweenMax.min.js"></script>
 
 # Bits and Bots
 <!-- ![BitsAndBots](https://1drv.ms/i/c/1d17967c159fdd0f/IQOLj0GM8DZwRb0K92qwwweQAS-Hgk-k-oB7FNEuQNYbKEo?width=1024) -->
