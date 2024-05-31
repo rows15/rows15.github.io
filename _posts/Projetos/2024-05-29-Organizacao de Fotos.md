@@ -42,7 +42,7 @@ O servidor automaticamente separa as imagens, videos e arquivos em semanas
 ---
 Mensalmente analisar e arquivar as fotos nas devidas pastas
 ### Pastas Sincronizadas
----
+<!-- ---
 | Celular | Nas |
 | --- | ----------- |
 | DCIM/Camera | Camera |
@@ -52,7 +52,45 @@ Mensalmente analisar e arquivar as fotos nas devidas pastas
 | DCIM/Screenshots | Screenshots |
 | Android/media/com.whatsapp/WhatsApp/Media/WhatsApp Documents | WZDocuments |
 | Android/media/com.whatsapp/Whatsapp/Media/WhatApp Images | WZImages |
-| Android/media/com.whatsapp/Whatsapp/Media/Whatsapp Video | WZVideos |
+| Android/media/com.whatsapp/Whatsapp/Media/Whatsapp Video | WZVideos | -->
+
+<table id="dynamicTable">
+    <thead>
+        <tr>
+            <th>Celular</th>
+            <th>Nas</th>
+        </tr>
+    </thead>
+    <tbody>
+        <!-- Rows will be inserted here by JavaScript -->
+    </tbody>
+</table>
+
+<script>
+    const data = [
+        ["DCIM/Camera", "Camera"],
+        ["Download", "Downloads"],
+        ["Movies/Instagram", "Instagram"],
+        ["Pictures/Instagram", "Instagram"],
+        ["DCIM/Screenshots", "Screenshots"],
+        ["Android/media/com.whatsapp/WhatsApp/Media/WhatsApp Documents", "WZDocuments"],
+        ["Android/media/com.whatsapp/Whatsapp/Media/WhatApp Images", "WZImages"],
+        ["Android/media/com.whatsapp/Whatsapp/Media/Whatsapp Video", "WZVideos"]
+    ];
+
+    const tableBody = document.querySelector("#dynamicTable tbody");
+
+    data.forEach(row => {
+        const tr = document.createElement("tr");
+        row.forEach(cell => {
+            const td = document.createElement("td");
+            td.textContent = cell;
+            tr.appendChild(td);
+        });
+        tableBody.appendChild(tr);
+    });
+</script>
+
 
 ### Arquivos Ignoráveis
 ```
