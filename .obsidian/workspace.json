@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_posts/Memorias/2024-05-31-Post Escondido.md",
+                "file": "Template/Blog Template.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_posts/Memorias/2024-05-31-Post Escondido.md",
+                "file": "Template/Blog Template.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_posts/Memorias/2024-05-31-Post Escondido.md",
+                "file": "Template/Blog Template.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_posts/Memorias/2024-05-31-Post Escondido.md"
+                "file": "Template/Blog Template.md"
               }
             }
           }
@@ -147,6 +147,7 @@
   },
   "active": "2f6d5062597fcec2",
   "lastOpenFiles": [
+    "Template/_Base Template.md",
     "_posts/Projetos/2024-05-26-Bits-and-Bots.md",
     "_posts/Memorias/2024-05-31-Post Escondido.md",
     "assets/css/bak-jekyll-theme-chirpy.css",
@@ -170,7 +171,6 @@
     "Template/Memories Template.md",
     "Template/Meta Template.md",
     "Template/Ideias Template.md",
-    "Template/_Base Template.md",
     "Template/Projetos Template.md",
     "_posts/Memorias/2024-05-29-Viagem de Carro.md",
     "Template/Misc Template.md",
