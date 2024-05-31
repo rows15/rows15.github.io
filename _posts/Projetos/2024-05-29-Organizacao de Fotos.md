@@ -20,27 +20,21 @@ Não ter o celular explodindo de arquivos depois de 1 ano de uso e precisar faze
 Rodar um aplicativo de sincronização (FolderSync) com 2 funções progamadas a cada hora, ou a cada intervalo de horas
 <br>
 #### Exemplo (a cada 12h):
-    - As 01:00 é rodado o script de Sincronização Celular > Pasta no Nas 
-    (Transferencia inicial de arquivos pesados)
+    - As 01:00 é rodada a Sincronização Celular > Pasta no Nas 
+    (Transferencia (e remoção automática do celular) inicial de arquivos pesados)
     
-    - As 02:00 é rodado o script de Sincronização Celular > Pasta no Nas (Transferencia secundária de arquivos leves)
 
-    - Assim que detectada a transferencia secundária é rodado o script do passo 2 
-    (remoção das pastas compartilhadas do Nas)
+    - As 02:00 é rodado o script do Nas de Pasta Sincronizada > Pasta Dump Organizada Tipos de Mídia
 
-    - As 2:05 é rodado o script de Sincronização Nas > Celular 
-    (onde a pasta vazia é sincronizada, deletando os arquivos do celular)
 
-    Ponto negativo:
-    arquivos recebidos das 2:00 até as 2:05 serão descartados
 
 
 ### Passo 2 - Servidor > Organização |=>
 ---
-O servidor automaticamente separa as imagens, videos e arquivos em semanas
+O servidor automaticamente separa as imagens, videos e arquivos
 ### Passo 3 - Organização > Album final |=>
 ---
-Mensalmente analisar e arquivar as fotos nas devidas pastas
+Semanalmente analisar e arquivar as fotos nas devidas pastas
 ### Pastas Sincronizadas
 <!-- ---
 | Celular | Nas |

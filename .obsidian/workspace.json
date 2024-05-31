@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_posts/Projetos/2024-05-26-Bits-and-Bots.md",
+                "file": "_posts/Memorias/2024-05-31-Post Escondido.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_posts/Projetos/2024-05-26-Bits-and-Bots.md",
+                "file": "_posts/Memorias/2024-05-31-Post Escondido.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_posts/Projetos/2024-05-26-Bits-and-Bots.md",
+                "file": "_posts/Memorias/2024-05-31-Post Escondido.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_posts/Projetos/2024-05-26-Bits-and-Bots.md"
+                "file": "_posts/Memorias/2024-05-31-Post Escondido.md"
               }
             }
           }
@@ -147,6 +147,8 @@
   },
   "active": "2f6d5062597fcec2",
   "lastOpenFiles": [
+    "_posts/Projetos/2024-05-26-Bits-and-Bots.md",
+    "_posts/Memorias/2024-05-31-Post Escondido.md",
     "assets/css/bak-jekyll-theme-chirpy.css",
     "_posts/Projetos/2024-05-29-Organizacao de Fotos.md",
     "_posts/Projetos/2024-05-17-Pixels-UserAndLandScraper.md",
@@ -160,7 +162,6 @@
     "_site/Template/Memories Template.html",
     "_site/Template/Ideias Template.html",
     "_site/Template/Blog Template.html",
-    "_site/Template",
     "_posts/Projetos/2024-05-29-Projeto de cagar nas calças automatico.md",
     "_posts/Memorias/2024-05-29-Show do slipao.md",
     "_posts/Meta/2024-05-28-OrganizacaoDoBlog.md",
@@ -181,7 +182,6 @@
     "_posts/Ideias/2024-05-29-oie.md",
     "_posts/Ideias/2024-05-29-oeie.md",
     "_posts/Ideias/2024-05-29-oio.md",
-    "_posts/Ideias/2024-05-29-Oi2.md",
-    "_posts/Ideias/2024-05-29-oi.md"
+    "_posts/Ideias/2024-05-29-Oi2.md"
   ]
 }
