@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Template/Blog Template.md",
+                "file": "Template/orgsite.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Template/Blog Template.md",
+                "file": "Template/orgsite.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Template/Blog Template.md",
+                "file": "Template/orgsite.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Template/Blog Template.md"
+                "file": "Template/orgsite.md"
               }
             }
           }
@@ -147,6 +147,8 @@
   },
   "active": "2f6d5062597fcec2",
   "lastOpenFiles": [
+    "Template/Projetos Template.md",
+    "Template/Blog Template.md",
     "Template/_Base Template.md",
     "_posts/Projetos/2024-05-26-Bits-and-Bots.md",
     "_posts/Memorias/2024-05-31-Post Escondido.md",
@@ -171,10 +173,8 @@
     "Template/Memories Template.md",
     "Template/Meta Template.md",
     "Template/Ideias Template.md",
-    "Template/Projetos Template.md",
     "_posts/Memorias/2024-05-29-Viagem de Carro.md",
     "Template/Misc Template.md",
-    "Template/Blog Template.md",
     "_posts/Blog/2024-05-29-er.md",
     "_posts/Blog/2024-05-29-oi.md",
     "_posts/Blog/Untitled 1.md",
