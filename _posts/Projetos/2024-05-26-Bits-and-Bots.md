@@ -18,7 +18,10 @@ e o Jay deu como tematica Jrock (acordes de Jmusic)
 Decidi colocar samples do teclado como percussão e acabou por ficar muito agradável
 Nem tinha planos de lançar ou seguir carreira disso mas vou ver como faz e lançar no meu spotify.
 <br>
-<!-- <img src="https://1drv.ms/i/c/1d17967c159fdd0f/IQOLj0GM8DZwRb0K92qwwweQAS-Hgk-k-oB7FNEuQNYbKEo" alt="drawing" style="width: 100vw;"/> -->
+
+<img src="https://1drv.ms/i/c/1d17967c159fdd0f/IQOLj0GM8DZwRb0K92qwwweQAS-Hgk-k-oB7FNEuQNYbKEo" alt="drawing" style="width: 100vw;"/>
+
+_Capa do Single_
 
 ## Enquanto não é lançada no spotify
 <link rel="stylesheet" href="/assets/css/mpstyle.css">
