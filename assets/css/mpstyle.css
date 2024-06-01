@@ -3,13 +3,17 @@
 }
 
 .cover img {
-  width: 100vw;
+  width: 40vw;
   /* height: 200px; */
   border-radius: 50%;
   margin-bottom: 20px;
   animation: spin 10s infinite linear;
   animation-play-state: paused; /*
 Initially paused */
+}
+
+.controls {
+  width: 40vw;
 }
 
 @keyframes spin {
