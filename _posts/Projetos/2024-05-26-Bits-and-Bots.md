@@ -18,13 +18,29 @@ e o Jay deu como tematica Jrock (acordes de Jmusic)
 Decidi colocar samples do teclado como percussão e acabou por ficar muito agradável
 Nem tinha planos de lançar ou seguir carreira disso mas vou ver como faz e lançar no meu spotify.
 <br>
-<img src="https://1drv.ms/i/c/1d17967c159fdd0f/IQOLj0GM8DZwRb0K92qwwweQAS-Hgk-k-oB7FNEuQNYbKEo" alt="drawing" style="width: 100vw;"/>
+<!-- <img src="https://1drv.ms/i/c/1d17967c159fdd0f/IQOLj0GM8DZwRb0K92qwwweQAS-Hgk-k-oB7FNEuQNYbKEo" alt="drawing" style="width: 100vw;"/> -->
 
 ## Enquanto não é lançada no spotify
-<audio controls>
+<link rel="stylesheet" href="/assets/css/mpstyle.css">
+
+
+<div class="audio-player">
+    <div class="cover">
+        <img src="https://1drv.ms/i/c/1d17967c159fdd0f/IQOLj0GM8DZwRb0K92qwwweQAS-Hgk-k-oB7FNEuQNYbKEo" alt="Cover Image">
+    </div>
+    <div class="controls">
+        <audio src="https://www.dropbox.com/scl/fi/ol4dp6jvr1j8lsijvcui5/Bits-and-Bots_44100hz.flac?rlkey=txywys182mipm4g1rn7x91q51&dl=1" controls preload="auto"></audio>
+        <div class="progress-bar">
+            <div class="progress"></div>
+        </div>
+    </div>
+</div>
+<script src="/assets/js/mpscript.js"></script>
+
+<!-- <audio controls>
   <source src="https://www.dropbox.com/scl/fi/ol4dp6jvr1j8lsijvcui5/Bits-and-Bots_44100hz.flac?rlkey=txywys182mipm4g1rn7x91q51&dl=1" type="audio/mpeg">
   Your browser does not support the audio element.
-</audio>
+</audio> -->
 <!-- <iframe src="https://1drv.ms/u/c/1d17967c159fdd0f/IQPLlE0RAogwSrg9VxYqpAQLAUTE4FagkAoqYFpV6CET6n4" width="300" height="120" frameborder="0" scrolling="no"></iframe> -->
 <pre>
 - [x] Fazer a musica                         26-05-2024
