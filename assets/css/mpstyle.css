@@ -8,8 +8,8 @@
   border-radius: 50%;
   margin-bottom: 20px;
   animation: spin 10s infinite linear;
-  animation-play-state: paused; /*
-Initially paused */
+  animation-play-state: paused; /*Initially paused */
+  box-shadow: none; /* Initially no glow */
 }
 
 audio {
