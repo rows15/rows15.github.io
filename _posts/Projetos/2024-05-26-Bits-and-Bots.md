@@ -24,33 +24,6 @@ Nem tinha planos de lançar ou seguir carreira disso mas vou ver como faz e lan�
   <summary>Expandir Capa do Single</summary>
 <img src="https://1drv.ms/i/c/1d17967c159fdd0f/IQOLj0GM8DZwRb0K92qwwweQAS-Hgk-k-oB7FNEuQNYbKEo" alt="drawing" style="width: 100vw;"/>
 </details>
-<!-- Bloco de Musica Start -->
-<link rel="stylesheet" href="/assets/css/mpstyle.css">
-<div class="audio-player">
-    <div class="cover">
-        <img src="https://1drv.ms/i/c/1d17967c159fdd0f/IQOLj0GM8DZwRb0K92qwwweQAS-Hgk-k-oB7FNEuQNYbKEo" alt="Cover Image">
-    </div>
-    <div class="controls">
-        <audio src="https://www.dropbox.com/scl/fi/ol4dp6jvr1j8lsijvcui5/Bits-and-Bots_44100hz.flac?rlkey=txywys182mipm4g1rn7x91q51&dl=1" controls preload="auto"></audio>
-    </div>
-</div>
-<script src="/assets/js/mpscript.js"></script>
-<!-- Bloco de Musica End -->
-
-<!-- <audio controls>
-  <source src="https://www.dropbox.com/scl/fi/ol4dp6jvr1j8lsijvcui5/Bits-and-Bots_44100hz.flac?rlkey=txywys182mipm4g1rn7x91q51&dl=1" type="audio/mpeg">
-  Your browser does not support the audio element.
-</audio> -->
-<!-- <iframe src="https://1drv.ms/u/c/1d17967c159fdd0f/IQPLlE0RAogwSrg9VxYqpAQLAUTE4FagkAoqYFpV6CET6n4" width="300" height="120" frameborder="0" scrolling="no"></iframe> -->
-<br>
-<pre>
-- [x] Fazer a musica                         26-05-2024
-- [x] Mixar a Música                         27-05-2024
-- [x] Efeitos e toques finais                30-05-2024
-- [x] Artwork                                30-05-2024
-- [x] Mandar para ser publicada              30-05-2024
-- [ ] Publicada
-</pre>
 <details>
   <summary>Letra:</summary>
 
@@ -77,6 +50,34 @@ As i hear birds chirping on the window
 i guess its Time toooo sleep
 </pre>
 </details>
+<!-- Bloco de Musica Start -->
+<link rel="stylesheet" href="/assets/css/mpstyle.css">
+<div class="audio-player">
+    <div class="cover">
+        <img src="https://1drv.ms/i/c/1d17967c159fdd0f/IQOLj0GM8DZwRb0K92qwwweQAS-Hgk-k-oB7FNEuQNYbKEo" alt="Cover Image">
+    </div>
+    <div class="controls">
+        <audio src="https://www.dropbox.com/scl/fi/ol4dp6jvr1j8lsijvcui5/Bits-and-Bots_44100hz.flac?rlkey=txywys182mipm4g1rn7x91q51&dl=1" controls preload="auto"></audio>
+    </div>
+</div>
+<script src="/assets/js/mpscript.js"></script>
+<!-- Bloco de Musica End -->
+
+<!-- <audio controls>
+  <source src="https://www.dropbox.com/scl/fi/ol4dp6jvr1j8lsijvcui5/Bits-and-Bots_44100hz.flac?rlkey=txywys182mipm4g1rn7x91q51&dl=1" type="audio/mpeg">
+  Your browser does not support the audio element.
+</audio> -->
+<!-- <iframe src="https://1drv.ms/u/c/1d17967c159fdd0f/IQPLlE0RAogwSrg9VxYqpAQLAUTE4FagkAoqYFpV6CET6n4" width="300" height="120" frameborder="0" scrolling="no"></iframe> -->
+<br>
+<pre>
+Todo List:
+- [x] Fazer a musica                         26-05-2024
+- [x] Mixar a Música                         27-05-2024
+- [x] Efeitos e toques finais                30-05-2024
+- [x] Artwork                                30-05-2024
+- [x] Mandar para ser publicada              30-05-2024
+- [ ] Publicada
+</pre>
 
 
 <details>
@@ -108,7 +109,6 @@ As i hear birds chirping on the window
 i guess its TIme toooo sleep
 </pre>
 </details>
----
 
 <!-- <audio controls>
   <source src="https://www.dropbox.com/scl/fi/6s38yjr0cuf6x6exu3ih8/Saudades-no-Sono-2.mp3?rlkey=ichdyh1ffu8ypa3mfwmbzdpsg&dl=1" type="audio/mpeg">
