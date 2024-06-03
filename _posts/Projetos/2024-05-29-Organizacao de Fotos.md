@@ -17,14 +17,13 @@ Não ter o celular explodindo de arquivos depois de 1 ano de uso e precisar faze
 
 ### Passo 1 - Sync das pastas do celula com o Nas
 ---
-Rodar um aplicativo de sincronização (FolderSync) com 2 funções progamadas a cada hora, ou a cada intervalo de horas
+Automaticamente é rodado um aplicativo de sincronização (FolderSync) com 2 funções progamadas a cada hora, ou a cada intervalo de horas
 <br>
 #### Exemplo (a cada 12h):
     - As 01:00 é rodada a Sincronização Celular > Pasta no Nas 
     (Transferencia (e remoção automática do celular) inicial de arquivos pesados)
     
 
-    - As 02:00 é rodado o script do Nas de Pasta Sincronizada > Pasta Dump Organizada Tipos de Mídia
 
 
 
@@ -32,9 +31,19 @@ Rodar um aplicativo de sincronização (FolderSync) com 2 funções progamadas a
 ### Passo 2 - Servidor > Organização |=>
 ---
 O servidor automaticamente separa as imagens, videos e arquivos
-### Passo 3 - Organização > Album final |=>
+#### Exemplo (a cada 12h):
+    - As 02:00 é rodado o script do Nas de Pasta Sincronizada > Pasta Dump Organizada Tipos de Mídia
+### Passo 3 - Organização > Estoque final |=>
 ---
-Semanalmente analisar e arquivar as fotos nas devidas pastas
+Semanalmente e manualmente analisar e arquivar as fotos nas devidas pastas datadas do estoque
+
+### Passo 4 - Estoque Final > Album |=>
+---
+Com as fotos Categorizadas, manualmente colocar em um Album na cloud de fácil acesso com as melhores fotos de:
+- Viagens
+- ProfilePics (3 em 3 anos)
+- Lembranças Importantes
+  
 ### Pastas Sincronizadas
 <!-- ---
 | Celular | Nas |
